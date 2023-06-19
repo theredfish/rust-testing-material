@@ -1,5 +1,6 @@
 <div align="center">
-    <img src="./logo/rust-testing-material.png" alt="Rust Testing Material steampunk crab logo" height="300"/>
+    <img src="https://github.com/owlduty/rust-testing-material/blob/main/logo/rtm-logo-light-theme.png#gh-light-mode-only" width="50%" />
+    <img src="https://github.com/owlduty/rust-testing-material/blob/main/logo/rtm-logo-dark-theme.png#gh-dark-mode-only" width="50%" />
 </div>
 
 [![Check Links](https://github.com/owlduty/rust-testing-material/actions/workflows/links.yml/badge.svg)](https://github.com/owlduty/rust-testing-material/actions/workflows/links.yml)
