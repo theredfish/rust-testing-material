@@ -4,7 +4,7 @@ Feel free to open a pull request if you know good Rust testing material.
 
 ## Process
 
-Whenever you find a promising resource, project, talk or video, take tyhe time to review and evaluate the
+Whenever you find a promising resource, project, talk or video, take the time to review and evaluate the
 content quality. If you decide the resource is a good fit for this curated list and can add value to the Rust testing ecosystem, then open a pull request.
 
 If you're unsure about it, this is also a good opportunity to contribute by opening a pull request and gathering feedback. We will decide together!
