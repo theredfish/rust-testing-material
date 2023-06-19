@@ -26,4 +26,15 @@ This repository contains a curated list of testing material in the Rust ecosyste
 
 ## Articles
 
+### 2021
+
+- [An Introduction To Property-Based Testing In Rust](https://www.lpalmieri.com/posts/an-introduction-to-property-based-testing-in-rust) by [Luca Palmieri](https://github.com/LukeMathWalker).
+
 ## Talks
+
+### 2019
+
+- Shipping a stable compiler every six weeks (and how to prevent regressions on the stable channel)
+[[Video](https://youtu.be/As1gXp5kX1M)]
+[[Transcript](https://www.pietroalbini.org/blog/shipping-a-compiler-every-six-weeks/)]
+by [Pietro Albini](https://github.com/pietroalbini) - RustFest Barcelona.
