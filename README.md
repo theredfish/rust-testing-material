@@ -29,6 +29,7 @@ This repository contains a curated list of testing material in the Rust ecosyste
 ### 2021
 
 - [An Introduction To Property-Based Testing In Rust](https://www.lpalmieri.com/posts/an-introduction-to-property-based-testing-in-rust) by [Luca Palmieri](https://github.com/LukeMathWalker).
+- [Async test setup and teardown in Rust](https://lik.ai/blog/async-setup-and-teardown-in-rust) by [Kai Li](https://github.com/li-kai)
 
 ## Talks
 
