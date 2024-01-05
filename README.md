@@ -26,6 +26,11 @@ This repository contains a curated list of testing material in the Rust ecosyste
 
 ## Articles
 
+### 2023
+
+- [Hexagonal architecture, test doubles, and traits](https://n14n.dev/articles/2023/testing-part-2/)
+by [Nicolas Moutschen](https://github.com/nmoutschen)
+
 ### 2021
 
 - [An Introduction To Property-Based Testing In Rust](https://www.lpalmieri.com/posts/an-introduction-to-property-based-testing-in-rust) by [Luca Palmieri](https://github.com/LukeMathWalker).
