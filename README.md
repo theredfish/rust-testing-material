@@ -18,6 +18,7 @@ This repository contains a curated list of testing material in the Rust ecosyste
 ## Projects
 
 - [Cucumber](https://github.com/cucumber-rs/cucumber) - An implementation of the Cucumber testing framework for Rust.
+- [Hurl](https://github.com/Orange-OpenSource/hurl) - Run and test HTTP requests with plain text.
 - [Mockito](https://github.com/lipanski/mockito) - A library for generating and delivering HTTP mocks in Rust.
 - [Nextest](https://github.com/nextest-rs/nextest) - The next-generation test runner for Rust.
 - [Proptest](https://github.com/proptest-rs/proptest) - A property testing framework (i.e., the QuickCheck family).
